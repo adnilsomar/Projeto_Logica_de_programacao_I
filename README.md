@@ -1,4 +1,4 @@
-# Projeto ADA Teach: Logica de Programação I Com Python
+# Projeto ADA Teach: Logica de Programação I - Python
 
 * O objetivo deste projeto é codificar e decodificar mensagens usando uma chave comum. 
 
